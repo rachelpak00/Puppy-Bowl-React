@@ -1,5 +1,6 @@
 import { useState, useSyncExternalStore } from "react";
 import { Link } from "react-router-dom";
+import './style.css'
 
 function AllPlayers (props) {
     const players = props.players;

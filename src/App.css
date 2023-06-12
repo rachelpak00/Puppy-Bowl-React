@@ -8,7 +8,7 @@
 .container-element {
   display: flex;
   flex-flow: wrap row;
-  justify-content: space-between;
+  justify-content: space-evenly;
   padding: 2%;
   font-size: 1.5rem;
   font-family: monospace;
