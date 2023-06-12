@@ -1,0 +1,24 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container-element {
+  display: flex;
+  flex-flow: wrap row;
+  justify-content: space-between;
+  padding: 2%;
+  font-size: 1.5rem;
+  font-family: monospace;
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
